@@ -1,5 +1,5 @@
 
-import sem7.view as view
+import  view
 
 exp = ''
 

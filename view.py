@@ -1,5 +1,5 @@
-import sem7.model as model
-import sem7.controller as controller
+import model
+import controller
 
 def division_by_zero():
     print('деление на ноль!')

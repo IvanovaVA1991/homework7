@@ -1,5 +1,5 @@
-import sem7.model as model
-import sem7.view as view
+import model 
+import view
 
 result = 0
 

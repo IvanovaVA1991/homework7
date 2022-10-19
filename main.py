@@ -1,5 +1,5 @@
-import sem7.controller as controller
-import sem7.model as model
+import  controller
+import model
 
 
 
